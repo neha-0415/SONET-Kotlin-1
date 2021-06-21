@@ -1,5 +1,4 @@
-[
-  {
+[{
   "id":1,
   "question":"What is C",
   "optOne":"Programming Language",
@@ -8,7 +7,7 @@
   "optFour":"Programming Language",
   "answer":1
 },
-  {
+{
   "id":2,
   "question":"What is C++",
   "optOne":"Programming Language",
